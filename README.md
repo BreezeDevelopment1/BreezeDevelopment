@@ -10,7 +10,7 @@ https://
 
 ## 👉 Join the community
 <p>
-  <a href="https://discord.gg/z5WDJK6hyT"><img src="https://discordapp.com/api/guilds/949764514776236033/widget.png?style=banner2" alt="Discord server"></a>
+  <img src="https://discordapp.com/api/guilds/949764514776236033/widget.png?style=banner2" alt="Discord Banner 2"/>
 </p>
 
 ## 👨‍💻 Meet the team
