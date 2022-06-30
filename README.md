@@ -10,7 +10,7 @@ https://
 
 ## 👉 Join the community
 <p>
-  <img src="https://discordapp.com/api/guilds/949764514776236033/widget.png?style=banner2" alt="Discord Banner 2"/>
+<iframe src="https://discord.com/widget?id=949764514776236033&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </p>
 
 ## 👨‍💻 Meet the team
